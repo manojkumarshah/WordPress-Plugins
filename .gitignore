@@ -1,0 +1,23 @@
+# Git Ignore File
+#
+# This file is used to ignore files when using git.
+#
+# Add files you want to ignore here.
+#
+# Example:
+#
+#   .gitignore
+#   *.swp
+#   *.bak
+#   *.tmp
+#   *.log
+#   *.swo
+
+# Files to ignore all the time.
+*
+
+# Files to allow in git.
+
+!.gitignore
+!README.md
+!LICENSE
