@@ -21,3 +21,7 @@
 !.gitignore
 !README.md
 !LICENSE
+
+# Folders to allow in git.
+!page-filter
+!page-filter/page-filter.php
